@@ -1,1 +1,1 @@
-# aws-saa-study
+# AWS Certified Solutions Architect - Associate 학습 기록 
